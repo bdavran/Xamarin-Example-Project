@@ -19,3 +19,7 @@ C:\Users\PackerdBell\Documents\GitHub\XamarinApp1\XamarinApp1\XamarinApp1\obj\De
 C:\Users\PackerdBell\Documents\GitHub\XamarinApp1\XamarinApp1\XamarinApp1\obj\Debug\XamarinApp1.MasterSayfalar.MyContent.xaml.g.cs
 C:\Users\PackerdBell\Documents\GitHub\XamarinApp1\XamarinApp1\XamarinApp1\obj\Debug\XamarinApp1.dll.mdb
 C:\Users\PackerdBell\Documents\GitHub\XamarinApp1\XamarinApp1\XamarinApp1\bin\Debug\XamarinApp1.dll.mdb
+C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1\obj\Debug\XamarinApp1.dll.mdb
+C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1\bin\Debug\XamarinApp1.dll.mdb
+C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1\obj\Debug\XamarinApp1.dll.mdb
+C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1\bin\Debug\XamarinApp1.dll.mdb
