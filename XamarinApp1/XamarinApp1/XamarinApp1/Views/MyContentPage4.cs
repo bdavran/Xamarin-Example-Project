@@ -12,7 +12,7 @@ namespace XamarinApp1.Views
     {
         public MyContentPage4()
         {
-            Label lblPage = new Label();
+            var lblPage = new Label();
             lblPage.Text = "Hello World";
             lblPage.FontSize = 30;
             lblPage.HorizontalOptions = LayoutOptions.Center;

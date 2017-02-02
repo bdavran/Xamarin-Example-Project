@@ -11,8 +11,9 @@ namespace XamarinApp1.Views
     {
         public MyTabbedPage()
         {
-            //Children.Add(new MyTab1());
-            //Children.Add(new MyTab2());
+            Children.Add(new MyTab1());
+            Children.Add(new MyTab2());
+            Children.Add(new MyTab3());
         }
     }
 }

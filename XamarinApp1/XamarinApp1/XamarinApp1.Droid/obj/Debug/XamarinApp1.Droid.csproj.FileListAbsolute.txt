@@ -90,7 +90,6 @@ C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\Xamari
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\XamarinApp1.dll
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\XamarinApp1.pdb
-C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\XamarinApp1.dll.mdb
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\FormsViewGroup.pdb
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\Xamarin.Forms.Core.pdb
@@ -114,6 +113,8 @@ C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\Xamari
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\obj\Debug\res\values\styles.xml
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\obj\Debug\R.cs.flag
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\obj\Debug\uploadflags.txt
+C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\obj\Debug\res\drawable\menu-sticker.png
+C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\XamarinApp1.Droid.dll.mdb
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\Java.Interop.dll.mdb
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\Mono.Android.dll.mdb
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\mscorlib.dll.mdb
@@ -125,7 +126,7 @@ C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\Xamari
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\System.Xml.dll.mdb
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\System.Xml.Linq.dll.mdb
-C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\XamarinApp1.Droid.dll.mdb
+C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\bin\Debug\XamarinApp1.dll.mdb
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
 C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb

@@ -1,0 +1,2 @@
+C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1.WinPhone\XamarinApp1.WinPhone.csproj;neutral
+C:\Users\PackerdBell\Documents\GitHub\Xamarin-Example-Project\XamarinApp1\XamarinApp1\XamarinApp1\XamarinApp1.csproj;neutral

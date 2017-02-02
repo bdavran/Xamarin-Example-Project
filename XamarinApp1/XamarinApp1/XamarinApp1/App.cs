@@ -15,10 +15,7 @@ namespace XamarinApp1
         public App()
         {
             // The root page of your application
-
-            MainPage = new MyMasterPage();
-
-           
+            MainPage = new MyMasterPage();        
         }
 
         protected override void OnStart()

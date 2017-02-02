@@ -13,6 +13,9 @@ namespace XamarinApp1.MasterSayfalar
         public MyMenu()
         {
             InitializeComponent();
+            Icon = "Menu-Sticker.png";
         }
+
+        
     }
 }

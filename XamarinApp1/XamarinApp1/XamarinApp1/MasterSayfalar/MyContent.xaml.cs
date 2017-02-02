@@ -14,6 +14,7 @@ namespace XamarinApp1.MasterSayfalar
         {
             InitializeComponent();
             Title = "content";
+           
         }
     }
 }

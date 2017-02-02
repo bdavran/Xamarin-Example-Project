@@ -16,12 +16,18 @@ namespace XamarinApp1.TabbedPages
             Title = "My Page 2";
             BackgroundColor = Color.Blue;
 
-            BoxView boxView = new BoxView();
-            boxView.BackgroundColor = Color.White;
-            boxView.VerticalOptions = LayoutOptions.Center;
-            boxView.HorizontalOptions = LayoutOptions.Center;
+
+            BoxView boxView = new BoxView()
+            {
+                Color = Color.Black,
+                HorizontalOptions = LayoutOptions.Center,
+                VerticalOptions = LayoutOptions.CenterAndExpand,
+
+            };
+
             Content = boxView;
-            
         }
+
+
     }
 }

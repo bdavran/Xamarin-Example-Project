@@ -15,11 +15,17 @@ namespace XamarinApp1.TabbedPages
             InitializeComponent();
             BackgroundColor = Color.Red;
 
-            BoxView boxView = new BoxView();
-            boxView.BackgroundColor = Color.White;
-            boxView.VerticalOptions = LayoutOptions.Center;
-            boxView.HorizontalOptions = LayoutOptions.Center;
-            
+            BoxView boxView = new BoxView()
+            {
+                Color = Color.Blue,
+                HorizontalOptions = LayoutOptions.Center,
+                VerticalOptions = LayoutOptions.CenterAndExpand,
+
+            };
+
+            Content = boxView;
+
         }
+
     }
 }

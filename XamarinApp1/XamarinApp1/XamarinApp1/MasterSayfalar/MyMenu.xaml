@@ -2,6 +2,26 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="XamarinApp1.MasterSayfalar.MyMenu"
-             Title ="Test">
-  <Label Text="My menu" TextColor="Red" VerticalOptions="Center" HorizontalOptions="Center" ></Label>
+             Title ="Xamarin"   >
+
+
+  <StackLayout BackgroundColor="White">
+    <StackLayout Orientation ="Horizontal" HorizontalOptions ="Center">
+      <Image Source="Menu-Sticker.png" VerticalOptions ="Center" HorizontalOptions ="Center">     
+      </Image>
+    </StackLayout>
+    <StackLayout Padding ="10" Spacing="20" VerticalOptions ="CenterAndExpand">
+      <Label Text="Selam" TextColor="Black"></Label>
+      <Label Text="Naber" TextColor="Silver"></Label>
+      <Label Text="Iyidir" TextColor="Black"></Label>
+      <Label Text="Lol" TextColor="Blue"></Label>     
+    </StackLayout>
+
+    <StackLayout Orientation="Horizontal" HeightRequest ="20" HorizontalOptions="Center" VerticalOptions="End" Padding="10,20,30,40">
+
+      <Label Text="www.BarisDavran.com" TextColor="Black"></Label>
+      
+    </StackLayout>
+    
+  </StackLayout>
 </ContentPage>
